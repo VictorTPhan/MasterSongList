@@ -144,5 +144,22 @@ MASTER_LIST = [
       "https://drive.google.com/uc?id=1_fFAJMD5TrY1pEvdBmivJCedD01tzUBX&export=download",
       "https://drive.google.com/uc?id=1n3EBeeQQKbnn6hQSiXTkTsBqnXEh6KBj&export=download",
       [46.97, 102.36, 135.04, 152.83, 165.61, 184.98, 208.62],
-      [1, 1, 1, -1, 1, -3, 5]))
-]
+      [1, 1, 1, -1, 1, -3, 5])),
+  Song(
+    "Whiskey in the jar", "unknown",
+    Mode(
+      "https://drive.google.com/uc?id=1B15P6QaO3n5AOmpqTFhiGkKFodDVFthC/&export=download",
+      "https://drive.google.com/uc?id=12XFjkyvKN7XlrXkayk-25aqwsknZkHmD/&export=download",
+      [46.97, 102.36, 135.04, 152.83, 165.61, 184.98, 208.62],
+      [1, 1, 1, -1, 1, -3, 5]),
+    Mode(
+      "https://drive.google.com/uc?id=1_fFAJMD5TrY1pEvdBmivJCedD01tzUBX&export=download",
+      "https://drive.google.com/uc?id=1n3EBeeQQKbnn6hQSiXTkTsBqnXEh6KBj&export=download",
+      [46.97, 102.36, 135.04, 152.83, 165.61, 184.98, 208.62],
+      [1, 1, 1, -1, 1, -3, 5]),
+    Mode(
+      "https://drive.google.com/uc?id=1_fFAJMD5TrY1pEvdBmivJCedD01tzUBX&export=download",
+      "https://drive.google.com/uc?id=1n3EBeeQQKbnn6hQSiXTkTsBqnXEh6KBj&export=download",
+      [46.97, 102.36, 135.04, 152.83, 165.61, 184.98, 208.62],
+      [1, 1, 1, -1, 1, -3, 5])),
+] # DON'T PASTE BELOW THIS LINE
