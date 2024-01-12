@@ -14,22 +14,22 @@ MASTER_LIST = [
     "Miniature concerto",
     "Alec Rowley",
     Mode(
-      "https://emma-server.onrender.com/miniature_concerto/primo_pdf",
-      "https://emma-server.onrender.com/miniature_concerto/primo_audio",
+      "https://drive.google.com/uc?id=1y1lOgV3FdGBkGMOb89rojlEE6-3haj7g&export=download",
+      "https://drive.google.com/uc?id=1l1kLEzVnTqyw_TJJD6j1Oe9__FlSq_XW&export=download",
       [
         24.11, 58.44, 63.54, 91.15, 113.06, 140.96, 163.59, 190.49, 219.76,
         250.07
       ], [1, 1, 1, 1, 1, 1, 1, 1]),
     Mode(
-      "https://emma-server.onrender.com/miniature_concerto/secondo_pdf",
-      "https://emma-server.onrender.com/miniature_concerto/secondo_audio",
+      "https://drive.google.com/uc?id=1y1lOgV3FdGBkGMOb89rojlEE6-3haj7g&export=download",
+      "https://drive.google.com/uc?id=1tpXEOTYT3KXYo1Rzc1572pv4bceqWLBQ&export=download",
       [
         24.11, 58.44, 63.54, 91.15, 113.06, 140.96, 163.59, 190.49, 219.76,
         250.07
       ], [1, 1, 1, 1, 1, 1, 1, 1]),
     Mode(
-      "https://emma-server.onrender.com/miniature_concerto/both_pdf",
-      "https://emma-server.onrender.com/miniature_concerto/both_audio",
+      "https://drive.google.com/uc?id=1y1lOgV3FdGBkGMOb89rojlEE6-3haj7g&export=download",
+      "https://drive.google.com/uc?id=1Kx70F8BoZJUNmhgRFRgHBpqth-3l9cof&export=download",
       [
         24.11, 58.44, 63.54, 91.15, 113.06, 140.96, 163.59, 190.49, 219.76,
         250.07
@@ -38,111 +38,111 @@ MASTER_LIST = [
   Song(
     "Prelude Defaun", "Debussy",
     Mode(
-      "https://emma-server.onrender.com/prelude_defaun/primo_pdf",
-      "https://emma-server.onrender.com/prelude_defaun/primo_audio",
+      "https://drive.google.com/uc?id=1fzJChP7ty48i-mPSyo9YvDUbhq5j8q55&export=download",
+      "https://www.free-scores.com/MP3SUPT/gurlitt-cornelius-moderato-9646-183875.mp3",
       [37.0, 53.0, 37.0, 57.0, 66.0], [1, 1, 1, 1]),
     Mode(
-      "https://emma-server.onrender.com/prelude_defaun/secondo_pdf",
-      "https://emma-server.onrender.com/prelude_defaun/secondo_audio",
+      "https://drive.google.com/uc?id=1fzJChP7ty48i-mPSyo9YvDUbhq5j8q55&export=download",
+      "https://drive.google.com/uc?id=1usOI5H2vkh95t6FjaTd_oMHmDwfe04ss&export=download",
       [37.0, 53.0, 37.0, 57.0, 66.0], [1, 1, 1, 1]),
     Mode(
-      "https://emma-server.onrender.com/prelude_defaun/both_pdf",
-      "https://emma-server.onrender.com/prelude_defaun/both_audio",
+      "https://drive.google.com/uc?id=1fzJChP7ty48i-mPSyo9YvDUbhq5j8q55&export=download",
+      "https://www.free-scores.com/MP3T/gurlitt-cornelius-moderato-183875.mp3",
       [37.0, 53.0, 37.0, 57.0, 66.0], [1, 1, 1, 1])),
   Song(
     "Moderato", "Cornelius Gurlitt",
     Mode(
-      "https://emma-server.onrender.com/moderato/primo_pdf",
-      "https://emma-server.onrender.com/moderato/primo_audio",
+      "https://www.free-scores.com/PDF_EN/gurlitt-cornelius-moderato-183875.pdf",
+      "https://www.free-scores.com/MP3SUPT/gurlitt-cornelius-moderato-9646-183875.mp3",
       [], []),
     Mode(
-      "https://emma-server.onrender.com/moderato/secondo_pdf",
-      "https://emma-server.onrender.com/moderato/secondo_audio",
+      "https://www.free-scores.com/PDF_EN/gurlitt-cornelius-moderato-183875.pdf",
+      "https://www.free-scores.com/MP3SUPT/gurlitt-cornelius-moderato-2967-183875.mp3",
       [], []),
     Mode(
-      "https://emma-server.onrender.com/moderato/both_pdf",
-      "https://emma-server.onrender.com/moderato/both_audio",
+      "https://www.free-scores.com/PDF_EN/gurlitt-cornelius-moderato-183875.pdf",
+      "https://www.free-scores.com/MP3T/gurlitt-cornelius-moderato-183875.mp3",
       [], [])),
   Song(
     "Rondino", "Joseph Hadyn",
     Mode(
-      "https://emma-server.onrender.com/rondino/primo_pdf",
-      "https://emma-server.onrender.com/rondino/primo_audio",
+      "https://www.free-scores.com/PDFSUP_EN/haydn-joseph-rondino-primo-7237-181025.pdf",
+      "https://www.free-scores.com/MP3SUPT/haydn-joseph-rondino-8534-181025.mp3",
       [23.69, 35.66], [1, -1]),
     Mode(
-      "https://emma-server.onrender.com/rondino/secondo_pdf",
-      "https://emma-server.onrender.com/rondino/secondo_audio",
+      "https://www.free-scores.com/PDFSUP_EN/haydn-joseph-rondino-secondo-6239-181025.pdf",
+      "https://www.free-scores.com/MP3SUPT/haydn-joseph-rondino-4007-181025.mp3",
       [23.69, 35.66], [1, -1]),
     Mode(
-      "https://emma-server.onrender.com/rondino/both_pdf",
-      "https://emma-server.onrender.com/rondino/both_audio",
+      "https://www.free-scores.com/PDF_EN/haydn-joseph-rondino-181025-684.pdf",
+      "https://www.free-scores.com/MP3T/haydn-joseph-rondino-181025-684.mp3",
       [23.69, 35.66], [1, -1])),
   Song(
     "Menuet", "Amadeus Mozart",
     Mode(
-      "https://emma-server.onrender.com/menuet/primo_pdf",
-      "https://emma-server.onrender.com/menuet/primo_audio",
+      "https://www.free-scores.com/PDFSUP_EN/mozart-wolfgang-amadeus-menuet-primo-3218-180183.pdf",
+      "https://www.free-scores.com/MP3SUPT/mozart-wolfgang-amadeus-menuet-3256-180183.mp3",
       [46.97, 102.36, 135.04, 152.83, 165.71, 184.98, 208.62],
       [1, 1, 1, -1, 1, -3, 5]),
     Mode(
-      "https://emma-server.onrender.com/menuet/secondo_pdf",
-      "https://emma-server.onrender.com/menuet/secondo_audio",
+      "https://www.free-scores.com/PDFSUP_EN/mozart-wolfgang-amadeus-menuet-secondo-3623-180183.pdf",
+      "https://www.free-scores.com/MP3SUPT/mozart-wolfgang-amadeus-menuet-950-180183.mp3",
       [46.97, 102.36, 135.04, 152.83, 165.71, 184.98, 208.62],
       [1, 1, 1, -1, 1, -3, 5]),
     Mode(
-      "https://emma-server.onrender.com/menuet/both_pdf",
-      "https://emma-server.onrender.com/menuet/both_audio",
+      "https://www.free-scores.com/PDF_EN/mozart-wolfgang-amadeus-menuet-180183.pdf",
+      "https://www.free-scores.com/MP3T/mozart-wolfgang-amadeus-menuet-180183.mp3",
       [46.97, 102.36, 135.04, 152.83, 165.71, 184.98, 208.62],
       [1, 1, 1, -1, 1, -3, 5])),
   Song(
     "Concert", "Amadeus Mozart",
     Mode(
-      "https://emma-server.onrender.com/concert/primo_pdf",
-      "https://emma-server.onrender.com/concert/primo_audio",
+      "https://drive.google.com/uc?id=13sq4TVIH4rFYwyXEMgVgy_Otaf2yLQYr&export=download",
+      "https://www.free-scores.com/MP3SUPT/mozart-wolfgang-amadeus-menuet-3256-180183.mp3",
       [46.97, 102.36, 135.04, 152.83, 165.71, 184.98, 208.62],
       [1, 1, 1, -1, 1, -3, 5]),
     Mode(
-      "https://emma-server.onrender.com/concert/secondo_pdf",
-      "https://emma-server.onrender.com/concert/secondo_audio",
+      "https://drive.google.com/uc?id=13sq4TVIH4rFYwyXEMgVgy_Otaf2yLQYr&export=download",
+      "https://www.free-scores.com/MP3SUPT/mozart-wolfgang-amadeus-menuet-3256-180183.mp3",
       [46.97, 102.36, 135.04, 152.83, 165.71, 184.98, 208.62],
       [1, 1, 1, -1, 1, -3, 5]),
     Mode(
-      "https://emma-server.onrender.com/concert/both_pdf",
-      "https://emma-server.onrender.com/concert/both_audio",
+      "https://drive.google.com/uc?id=13sq4TVIH4rFYwyXEMgVgy_Otaf2yLQYr&export=download",
+      "https://drive.google.com/uc?id=1G3csFLZZqsUdk0Fpl5xn1nXM-9vPec1l&export=download",
       [46.97, 102.36, 135.04, 152.83, 165.71, 184.98, 208.62],
       [1, 1, 1, -1, 1, -3, 5])),
   Song(
     "Concerto", "Billy Joel",
     Mode(
-      "https://emma-server.onrender.com/concerto/primo_pdf",
-      "https://emma-server.onrender.com/concerto/primo_audio",
+      "https://drive.google.com/uc?id=13sq4TVIH4rFYwyXEMgVgy_Otaf2yLQYr&export=download",
+      "https://www.free-scores.com/MP3SUPT/mozart-wolfgang-amadeus-menuet-3256-180183.mp3",
       [46.97, 102.36, 135.04, 152.83, 165.61, 184.98, 208.62],
       [1, 1, 1, -1, 1, -3, 5]),
     Mode(
-      "https://emma-server.onrender.com/concerto/secondo_pdf",
-      "https://emma-server.onrender.com/concerto/secondo_audio",
+      "https://drive.google.com/uc?id=13sq4TVIH4rFYwyXEMgVgy_Otaf2yLQYr&export=download",
+      "https://www.free-scores.com/MP3SUPT/mozart-wolfgang-amadeus-menuet-3256-180183.mp3",
       [46.97, 102.36, 135.04, 152.83, 165.61, 184.98, 208.62],
       [1, 1, 1, -1, 1, -3, 5]),
     Mode(
-      "https://emma-server.onrender.com/concerto/both_pdf",
-      "https://emma-server.onrender.com/concerto/both_audio",
+      "https://drive.google.com/uc?id=13sq4TVIH4rFYwyXEMgVgy_Otaf2yLQYr&export=download",
+      "https://drive.google.com/uc?id=1G3csFLZZqsUdk0Fpl5xn1nXM-9vPec1l&export=download",
       [46.97, 102.36, 135.04, 152.83, 165.61, 184.98, 208.62],
       [1, 1, 1, -1, 1, -3, 5])),
   Song(
     "Easy piano duet", "Lopez Calvo Gabriel Alejadro",
     Mode(
-      "https://emma-server.onrender.com/easy_piano_duet/primo_pdf",
-      "https://emma-server.onrender.com/easy_piano_duet/primo_audio",
+      "https://drive.google.com/uc?id=1_fFAJMD5TrY1pEvdBmivJCedD01tzUBX&export=download",
+      "https://drive.google.com/uc?id=1n3EBeeQQKbnn6hQSiXTkTsBqnXEh6KBj&export=download",
       [46.97, 102.36, 135.04, 152.83, 165.61, 184.98, 208.62],
       [1, 1, 1, -1, 1, -3, 5]),
     Mode(
-      "https://emma-server.onrender.com/easy_piano_duet/secondo_pdf",
-      "https://emma-server.onrender.com/easy_piano_duet/secondo_audio",
+      "https://drive.google.com/uc?id=1_fFAJMD5TrY1pEvdBmivJCedD01tzUBX&export=download",
+      "https://drive.google.com/uc?id=1n3EBeeQQKbnn6hQSiXTkTsBqnXEh6KBj&export=download",
       [46.97, 102.36, 135.04, 152.83, 165.61, 184.98, 208.62],
       [1, 1, 1, -1, 1, -3, 5]),
     Mode(
-      "https://emma-server.onrender.com/easy_piano_duet/both_pdf",
-      "https://emma-server.onrender.com/easy_piano_duet/both_audio",
+      "https://drive.google.com/uc?id=1_fFAJMD5TrY1pEvdBmivJCedD01tzUBX&export=download",
+      "https://drive.google.com/uc?id=1n3EBeeQQKbnn6hQSiXTkTsBqnXEh6KBj&export=download",
       [46.97, 102.36, 135.04, 152.83, 165.61, 184.98, 208.62],
       [1, 1, 1, -1, 1, -3, 5]))
 ]
