@@ -162,7 +162,7 @@ MASTER_LIST = [
       "https://drive.google.com/uc?id=1n3EBeeQQKbnn6hQSiXTkTsBqnXEh6KBj&export=download",
       [46.97, 102.36, 135.04, 152.83, 165.61, 184.98, 208.62],
       [1, 1, 1, -1, 1, -3, 5])),
-      Song(
+  Song(
     "Carol of the Bells", "Mykola Leontovych",
     Mode(
       "https://drive.google.com/uc?export=download&id=1LL9KanKC5vToQYn_dcXqEY6QW8p1Bf7c",
