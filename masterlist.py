@@ -163,20 +163,20 @@ MASTER_LIST = [
       [46.97, 102.36, 135.04, 152.83, 165.61, 184.98, 208.62],
       [1, 1, 1, -1, 1, -3, 5])),
       Song(
-    "Piano Duet Two", "Gallegos Frankie",
+    "Carol of the Bells", "Mykola Leontovych",
     Mode(
-      "https://drive.google.com/uc?export=download&id=1JmivPbeulR_QpwneOblYQ_2HF-kiqEuv",
-      "https://drive.google.com/uc?export=download&id=1h_OTzqGqscLf6xCXcOxYBZEFk-3PkbGw",
+      "https://drive.google.com/uc?export=download&id=1LL9KanKC5vToQYn_dcXqEY6QW8p1Bf7c",
+      "https://drive.google.com/uc?export=download&id=16hsrQAxORnbmPu8LwLajJ19e9JRnBvDY",
       [46.97, 102.36, 135.04, 152.83, 165.61, 184.98, 208.62],
       [1, 1, 1, -1, 1, -3, 5]),
     Mode(
-      "https://drive.google.com/uc?export=download&id=1JmivPbeulR_QpwneOblYQ_2HF-kiqEuv",
-      "https://drive.google.com/uc?export=download&id=1h_OTzqGqscLf6xCXcOxYBZEFk-3PkbGw",
+      "https://drive.google.com/uc?export=download&id=1LL9KanKC5vToQYn_dcXqEY6QW8p1Bf7c",
+      "https://drive.google.com/uc?export=download&id=16hsrQAxORnbmPu8LwLajJ19e9JRnBvDY",
       [46.97, 102.36, 135.04, 152.83, 165.61, 184.98, 208.62],
       [1, 1, 1, -1, 1, -3, 5]),
     Mode(
-      "https://drive.google.com/uc?export=download&id=1JmivPbeulR_QpwneOblYQ_2HF-kiqEuv",
-      "https://drive.google.com/uc?export=download&id=1h_OTzqGqscLf6xCXcOxYBZEFk-3PkbGw",
+      "https://drive.google.com/uc?export=download&id=1LL9KanKC5vToQYn_dcXqEY6QW8p1Bf7c",
+      "https://drive.google.com/uc?export=download&id=16hsrQAxORnbmPu8LwLajJ19e9JRnBvDY",
       [46.97, 102.36, 135.04, 152.83, 165.61, 184.98, 208.62],
       [1, 1, 1, -1, 1, -3, 5])),
 ] # DON'T PASTE BELOW THIS LINE
