@@ -153,13 +153,30 @@ MASTER_LIST = [
       [46.97, 102.36, 135.04, 152.83, 165.61, 184.98, 208.62],
       [1, 1, 1, -1, 1, -3, 5]),
     Mode(
-      "https://drive.google.com/uc?id=1_fFAJMD5TrY1pEvdBmivJCedD01tzUBX&export=download",
+      "https://drive.google.com/uc?export=download&id=1B15P6QaO3n5AOmpqTFhiGkKFodDVFthC",
       "https://drive.google.com/uc?id=1n3EBeeQQKbnn6hQSiXTkTsBqnXEh6KBj&export=download",
       [46.97, 102.36, 135.04, 152.83, 165.61, 184.98, 208.62],
       [1, 1, 1, -1, 1, -3, 5]),
     Mode(
-      "https://drive.google.com/uc?id=1_fFAJMD5TrY1pEvdBmivJCedD01tzUBX&export=download",
+      "https://drive.google.com/uc?export=download&id=1B15P6QaO3n5AOmpqTFhiGkKFodDVFthC",
       "https://drive.google.com/uc?id=1n3EBeeQQKbnn6hQSiXTkTsBqnXEh6KBj&export=download",
+      [46.97, 102.36, 135.04, 152.83, 165.61, 184.98, 208.62],
+      [1, 1, 1, -1, 1, -3, 5])),
+      Song(
+    "Piano Duet Two", "Gallegos Frankie",
+    Mode(
+      "https://drive.google.com/uc?export=download&id=1JmivPbeulR_QpwneOblYQ_2HF-kiqEuv",
+      "https://drive.google.com/uc?export=download&id=1h_OTzqGqscLf6xCXcOxYBZEFk-3PkbGw",
+      [46.97, 102.36, 135.04, 152.83, 165.61, 184.98, 208.62],
+      [1, 1, 1, -1, 1, -3, 5]),
+    Mode(
+      "https://drive.google.com/uc?export=download&id=1JmivPbeulR_QpwneOblYQ_2HF-kiqEuv",
+      "https://drive.google.com/uc?export=download&id=1h_OTzqGqscLf6xCXcOxYBZEFk-3PkbGw",
+      [46.97, 102.36, 135.04, 152.83, 165.61, 184.98, 208.62],
+      [1, 1, 1, -1, 1, -3, 5]),
+    Mode(
+      "https://drive.google.com/uc?export=download&id=1JmivPbeulR_QpwneOblYQ_2HF-kiqEuv",
+      "https://drive.google.com/uc?export=download&id=1h_OTzqGqscLf6xCXcOxYBZEFk-3PkbGw",
       [46.97, 102.36, 135.04, 152.83, 165.61, 184.98, 208.62],
       [1, 1, 1, -1, 1, -3, 5])),
 ] # DON'T PASTE BELOW THIS LINE
