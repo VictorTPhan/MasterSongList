@@ -196,7 +196,8 @@ MASTER_LIST = [
       "https://drive.google.com/uc?id=1Zmbscl8jnV_gd3sCLxnE4n7ND1EB68xC/&export=download",
       [46.97, 102.36, 135.04, 152.83, 165.61, 184.98, 208.62],
       [1, 1, 1, -1, 1, -3, 5])),
-      "Piano concerto No.2 in C minor", "Sergei Rachmaninoff",
+  Song(
+    "Piano concerto No.2 in C minor", "Sergei Rachmaninoff",
     Mode(
       "https://drive.google.com/uc?export=download&id=1LL9KanKC5vToQYn_dcXqEY6QW8p1Bf7c",
       "https://drive.google.com/uc?id=1GLqaN4D4H9zziAyrX0FifmiO_d2f1RNU/&export=download",
